@@ -16,12 +16,12 @@ Drawing inspiration from above, this study aims to examine Malaysians perception
 
 ## Source Code
 
-Step 1: Data Scraping 
-Step 2: Merging
-Step 3: Modeling
-Step 4: NLP Transformer (Netizen)
-Step 5: NLP Transformer (Politician)
-Step 6: Google Data Studio Dashboard (Netizen)
-Step 7: Analytics
-(Netizen) https://datastudio.google.com/reporting/0aa22c27-1d63-4233-9380-b546754891d1
-(Politician) https://datastudio.google.com/reporting/07cb562b-0c3c-44f7-bd5e-f8ef165b3a0d
+Step 1: Data Scraping <br />
+Step 2: Merging <br />
+Step 3: Modeling <br />
+Step 4: NLP Transformer (Netizen) <br />
+Step 5: NLP Transformer (Politician) <br />
+Step 6: Google Data Studio Dashboard (Netizen) <br />
+Step 7: Analytics <br />
+(Netizen) https://datastudio.google.com/reporting/0aa22c27-1d63-4233-9380-b546754891d1 <br />
+(Politician) https://datastudio.google.com/reporting/07cb562b-0c3c-44f7-bd5e-f8ef165b3a0d <br />
