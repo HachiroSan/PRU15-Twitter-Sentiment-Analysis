@@ -10,9 +10,8 @@ Overall, the sentiment on Twitter about the 15th General Election in Malaysia se
 Drawing inspiration from above, this study aims to examine Malaysians perceptions of political discourse on Twitter during the most recent General Election (GE15), which resulted in the long-governing Barisan Nasional (The National Front) government being shockingly ousted by the opposition, a coalition of three political parties, Pakatan Harapan (Alliance of Hope). The paper investigates the role of Twitter in textual communications using social media analytics, specifically sentiment analysis, content analysis, and descriptive statistics based on tweets written in English and Bahasa Malaysia.
 
 _Flowchart_
-[[img/PRU15%20Twitter%20Analysis_Img0.png|Flowchart]]
-
-
+[![gl-1](https://user-images.githubusercontent.com/20576651/151848491-0eb49b6f-c278-46f3-8dfe-67ad92b2c17d.png)
+](https://raw.githubusercontent.com/HachiroSan/PRU15-Twitter-Sentiment-Analysis/main/img/PRU15%20Twitter%20Analysis_Img0.png)
 
 _Process_
 
