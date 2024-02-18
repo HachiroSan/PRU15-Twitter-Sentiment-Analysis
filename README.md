@@ -1,24 +1,24 @@
 # PRU15-Twitter-Sentiment-Analysis
 
 
-## 1. What is the focus of this study?
+### 1. What is the focus of this study?
 This study focuses on examining Malaysians' perceptions of political discourse on Twitter during the most recent General Election (GE15) in Malaysia, which led to the ousting of the long-governing Barisan Nasional government by the opposition coalition Pakatan Harapan.
 
 
-## 2. Why is Twitter being studied in relation to the General Election?
+### 2. Why is Twitter being studied in relation to the General Election?
 Twitter is being studied because it plays a significant role in reflecting information about politicians, policy preferences, and opinions of followers, making it a crucial platform for electoral campaigns and public discourse.
 
 
-## 3. What methods are being used in this study?
+### 3. What methods are being used in this study?
 The study utilizes social media analytics techniques such as sentiment analysis, content analysis, and descriptive statistics to analyze tweets written in English and Bahasa Malaysia.
 
-## 4. What is the objective of understanding Twitter users' sentiment towards the election?
+### 4. What is the objective of understanding Twitter users' sentiment towards the election?
 The objective is to gain insights into how the public feels about the election, the different parties, and candidates involved, which can be valuable for understanding public opinion and political dynamics.
 
-## 5. What technologies are being used in the project?
+### 5. What technologies are being used in the project?
 I utilized a large language model (LLM) for Bahasa Malaysia developed by Mesolitica for parsing sentiment.
 
-## Long Boring Essay
+### Long Boring Essay
 
 ## Introduction
 The 2022 Malaysian general election, formally known as the 15th Malaysian general election, was held on Saturday, November 19, 2022, to elect the 222 members of the Dewan Rakyat to Malaysia's 15th Parliament. Social media platforms such as Facebook and Twitter play an important role in electoral campaigns by reflecting information about politicians and their followers' policy preferences and opinions. Twitter now has over 500 million users, with 395 million of them being monthly active users, demonstrating the platform's global reach and potential impact. The microblogging platform allows users to share their thoughts through various content forms such as text, images, and links, as well as unidirectional and asymmetrical connections, which allow users to connect with other users without their permission. As a result, a Twitter user's network includes connections to thought leaders, influencers, celebrities, and political leaders, among others.
