@@ -1,6 +1,5 @@
 # PRU15-Twitter-Sentiment-Analysis
 
-##TLDR;
 
 ## 1. What is the focus of this study?
 This study focuses on examining Malaysians' perceptions of political discourse on Twitter during the most recent General Election (GE15) in Malaysia, which led to the ousting of the long-governing Barisan Nasional government by the opposition coalition Pakatan Harapan.
